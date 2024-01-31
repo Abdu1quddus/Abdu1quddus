@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdu1quddus
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning back-end cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
